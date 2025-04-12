@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @azazabc
-- 👀 I’m interested in Computing Science.
+- 👀 I’m interested in sensor fusion, Human-Computer Interaction, human activity recognition, knowledge representation, etc.
 - 🌱 I’m looking to collaborate on AI.
 
 <!---
